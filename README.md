@@ -14,5 +14,5 @@ Designing the data mart from data lake with SQL and visualize it with Google Dat
 - Looker Studio
 
 # Result
-The dashboard was created by Google Data Studio [here](https://lookerstudio.google.com/reporting/72ce77a1-babd-4868-8118-ba45a0861f5b) and this is the screen capture for the dashboard:
+The dashboard was created by Google Data Studio [here](https://lookerstudio.google.com/reporting/bcc82458-1159-40c0-8652-60b2186b4306) and this is the screen capture for the dashboard:
 ![Dashboard1](https://github.com/fajarkrna/salycyl-sales-data/assets/148789830/ca783746-ac75-48d6-a3b4-f851245f6fdc)
